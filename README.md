@@ -1,6 +1,9 @@
 # brep-modeler-web3d
 Brep modeler React web3d client to connenct modeler server by socketio
 
+Note: This is a build repository. The source code of this repository is :
+https://gitee.com/changyunhai001/brep-modeler-web3d
+
 ## instruction
 before startup client, please start the brep modeler workstation service first:
 
